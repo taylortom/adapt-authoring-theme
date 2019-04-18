@@ -1,0 +1,10 @@
+{
+  "name": "adapt-authoring-theme",
+  "version": "0.0.1",
+  "description": "Theme files for the Adapt authoring tool",
+  "main": "index.js",
+  "adapt_authoring": {},
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.8.1"
+  }
+}
