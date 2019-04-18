@@ -1,0 +1,44 @@
+html {
+  background: url(/assets/bg.jpg);
+}
+h1 {
+  font-size: 250%;
+  font-weight: inherit;
+}
+h2 {
+  font-size: 200%;
+  font-weight: inherit;
+}
+a {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 15px;
+  border: 1px solid white;
+  color: white;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+a:hover {
+  background: white;
+  color: #3dd0ea;
+}
+
+#app {
+  margin: 0 auto;
+  margin-top: 3%;
+  width: 60%;
+  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+.info {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 25px;
+  background: rgba(255,255,255,0.25);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 3px;
+  font-size: 150%;
+}
