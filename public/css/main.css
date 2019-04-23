@@ -1,5 +1,6 @@
 html {
   background: url(/assets/bg.jpg);
+  background-attachment: fixed;
 }
 h1 {
   font-size: 250%;
