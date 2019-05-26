@@ -2,6 +2,7 @@
   "name": "adapt-authoring-theme",
   "version": "0.0.1",
   "description": "Theme files for the Adapt authoring tool",
+  "homepage": "https://github.com/taylortom/adapt-authoring-theme",
   "main": "index.js",
   "adapt_authoring": {
     "module": true,
